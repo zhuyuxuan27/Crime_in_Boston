@@ -1,0 +1,12 @@
+name: Crime_in_Boston
+title: Crime_in_Boston
+username:
+account: yuxuanzhu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1045523
+bundleId: 2255468
+url: https://yuxuanzhu.shinyapps.io/Crime_in_Boston/
+when: 1563817169.9418
+asMultiple: FALSE
+asStatic: FALSE
